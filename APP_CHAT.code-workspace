@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../APP_CHAT_FRONTEND"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Monokai Dimmed"
+	}
+}
